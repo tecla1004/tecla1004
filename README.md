@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" />
-	<img src="https://img.shields.io/badge/tailwindcss-CC6699?style=flat&logo=tailwindcss&logoColor=white" />
+	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	<img src="https://img.shields.io/badge/mui-007FFF?style=flat&logo=mui&logoColor=white" />
 </div>
 <h3>Backend</h3>
