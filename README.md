@@ -13,7 +13,7 @@
 <div>
 	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" />
 	<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" />
-	<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodejs&logoColor=white" />
 </div>
 
 
