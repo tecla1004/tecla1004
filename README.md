@@ -18,7 +18,10 @@
 	<img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodejs&logoColor=white" />
 </div>
 
+<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecla1004&layout=compact"><br><br>
 
+</div>
 
 
 <!--
