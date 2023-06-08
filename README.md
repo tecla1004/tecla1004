@@ -2,8 +2,10 @@
 <p>I'm a web developer with a passion for crafting seamless user experiences. My skill set includes React, Tailwind, Material UI, and a solid foundation in HTML, CSS, Sass, JavaScript, Express.js, and MongoDB.  But, I'm more eager to learn another skills, so you can check my other skills with my projects as well. Feel free to dive into my GitHub repositories to see examples of my work.<p>
 <h2>Frontend</h2>
 <div>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"
+ 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+
 </div>
 
 
